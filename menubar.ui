@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MenuBar</class>
+ <widget class="QWidget" name="MenuBar">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>251</width>
+    <height>672</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>251</width>
+    <height>672</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>251</width>
+    <height>914</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="QScrollArea" name="scrollArea">
+     <property name="frameShape">
+      <enum>QFrame::NoFrame</enum>
+     </property>
+     <property name="widgetResizable">
+      <bool>true</bool>
+     </property>
+     <widget class="QWidget" name="scrollAreaWidgetContents">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>251</width>
+        <height>672</height>
+       </rect>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>249</width>
+        <height>0</height>
+       </size>
+      </property>
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <item>
+        <widget class="QWidget" name="widget" native="true">
+         <widget class="QLabel" name="Focus1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>165</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="Video">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>115</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="FoundMusic1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>15</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="Podcast1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>65</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="Live1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>215</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="Focus">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>165</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="FM1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>265</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="FM">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>265</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="Podcast">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>65</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="Live">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>215</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="Video1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>115</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="bk">
+          <property name="geometry">
+           <rect>
+            <x>0</x>
+            <y>0</y>
+            <width>251</width>
+            <height>672</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>251</width>
+            <height>672</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>251</width>
+            <height>1150</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="MyMusic">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>320</y>
+            <width>75</width>
+            <height>30</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="Local">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>360</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="Local1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>360</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="Recent">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>410</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="Recent1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>410</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="MyCloudMusic1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>460</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="MyCloudMusic">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>460</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="MyPodcast">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>510</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="MyPodcast1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>510</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="MyEnshrine">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>560</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="MyEnshrine1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>560</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="SongList">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>615</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QLabel" name="SongList1">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>615</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="FoundMusic">
+          <property name="geometry">
+           <rect>
+            <x>15</x>
+            <y>15</y>
+            <width>225</width>
+            <height>45</height>
+           </rect>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>225</width>
+            <height>45</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+         <zorder>MyCloudMusic</zorder>
+         <zorder>bk</zorder>
+         <zorder>Focus1</zorder>
+         <zorder>Video</zorder>
+         <zorder>FoundMusic1</zorder>
+         <zorder>Podcast1</zorder>
+         <zorder>Live1</zorder>
+         <zorder>Focus</zorder>
+         <zorder>FM1</zorder>
+         <zorder>FM</zorder>
+         <zorder>Podcast</zorder>
+         <zorder>Live</zorder>
+         <zorder>Video1</zorder>
+         <zorder>MyMusic</zorder>
+         <zorder>Local</zorder>
+         <zorder>Recent</zorder>
+         <zorder>Recent1</zorder>
+         <zorder>MyCloudMusic1</zorder>
+         <zorder>MyPodcast</zorder>
+         <zorder>MyEnshrine</zorder>
+         <zorder>Local1</zorder>
+         <zorder>MyEnshrine1</zorder>
+         <zorder>MyPodcast1</zorder>
+         <zorder>SongList</zorder>
+         <zorder>SongList1</zorder>
+         <zorder>FoundMusic</zorder>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

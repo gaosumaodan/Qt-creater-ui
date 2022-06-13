@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainScene</class>
+ <widget class="QWidget" name="MainScene">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1028</width>
+    <height>673</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1028</width>
+    <height>673</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1671</width>
+    <height>914</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="individual">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>24</y>
+     <width>105</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="individual1">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>24</y>
+     <width>105</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="exclusive1">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>24</y>
+     <width>105</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exclusive">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>24</y>
+     <width>105</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="songlist1">
+   <property name="geometry">
+    <rect>
+     <x>265</x>
+     <y>24</y>
+     <width>50</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="songlist">
+   <property name="geometry">
+    <rect>
+     <x>265</x>
+     <y>24</y>
+     <width>50</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="ranking1">
+   <property name="geometry">
+    <rect>
+     <x>325</x>
+     <y>24</y>
+     <width>75</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ranking">
+   <property name="geometry">
+    <rect>
+     <x>325</x>
+     <y>24</y>
+     <width>75</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="singer1">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>24</y>
+     <width>50</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="singer">
+   <property name="geometry">
+    <rect>
+     <x>410</x>
+     <y>24</y>
+     <width>50</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="latest1">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>24</y>
+     <width>105</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="latest">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>24</y>
+     <width>105</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
